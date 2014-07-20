@@ -1,0 +1,6 @@
+name="more-ocaml"
+description="Support code for the book 'More OCaml'"
+version="0.1"
+requires=""
+archive(byte)="more.cma"
+archive(native)="more.cmxa"
